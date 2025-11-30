@@ -1,5 +1,7 @@
 #  Visual Studio 2026 (AI-Native)
 
+Welcome to .NET 10 & Visual Studio 2026!: https://www.youtube.com/watch?v=kbW7qHMBM6A
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/1200px-Visual_Studio_Icon_2026.svg.png)
 
 ![Image](https://learn.microsoft.com/en-us/visualstudio/releases/2026/media/18.0/profiler-agent.gif)
