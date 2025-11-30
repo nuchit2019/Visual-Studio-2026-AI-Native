@@ -6,9 +6,10 @@
 
 ![Image](https://www.dcrub.com/wp-content/uploads/2025/09/2025-11-16_20-37-30-1024x570.webp)
 
-## ✅ สรุปเบื้องต้น: Visual Studio 2026 (AI-Native)
+## สรุปเบื้องต้น: Visual Studio 2026 (AI-Native)
 
-* Visual Studio 2026 (VS 2026) เปิดตัวเมื่อ 11 พฤศจิกายน 2025 โดย Microsoft — บริษัทเรียกมันว่า “AI-native intelligent development environment (IDE)” ที่ยกระดับ IDE แบบเดิมให้กลายเป็น “first Intelligent Developer Environment” จริง ๆ ([Visual Studio Magazine][1])
+* Visual Studio 2026 (VS 2026)
+เปิดตัวเมื่อ 11 พฤศจิกายน 2025 โดย Microsoft — บริษัทเรียกมันว่า “AI-native intelligent development environment (IDE)” ที่ยกระดับ IDE แบบเดิมให้กลายเป็น “first Intelligent Developer Environment” จริง ๆ ([Visual Studio Magazine][1])
 * จุดขายหลักคือ “AI ถูกฝังเข้าไปในแกนกลางของ IDE” — ไม่ใช่แค่ปลั๊กอินเสริม แต่ให้ความช่วยเหลือแบบ context-aware ในหลายจุด: debugging, profiling, performance analysis, modernization ของแอป ฯลฯ ([Visual Studio Magazine][1])
 
 ---
